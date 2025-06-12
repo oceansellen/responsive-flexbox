@@ -21,6 +21,12 @@ html {
 
 /* NAV */
 
+.navbar {
+  display: flex;
+  flex-wrap: wrap; 
+  overflow-x: auto;
+}
+
 .navbar ul {
   list-style: none;
   margin: 0;
